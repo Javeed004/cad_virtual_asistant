@@ -2,7 +2,8 @@ import requests
 import os
 from urllib.parse import quote
 
-# GitHub authentication
+# GitHub authentication Personal Access Token
+# Make sure to replace this with your actual token
 GITHUB_TOKEN = "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" 
 
 headers = {
